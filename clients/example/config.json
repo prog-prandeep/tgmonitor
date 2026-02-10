@@ -1,0 +1,6 @@
+{
+  "proxy_url": "http://brd-customer-hl_4c2b53e8-zone-residential_proxy1:o3xsgham3i7h@brd.superproxy.io:33335",
+  "min_check_interval": 60,
+  "max_check_interval": 300,
+  "generate_screenshots": true
+}

@@ -1,9 +1,14 @@
 venv/
-client1/
 __pycache__/
-client2/
 *.log
 *.session
 config.json
 session.json
 monitored.json
+.env
+# Ignore all client folders
+clients/*
+
+# But keep the example template
+!clients/example/
+!clients/example/**
